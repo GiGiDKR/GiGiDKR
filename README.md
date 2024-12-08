@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GiGiDKR?cardType=level&theme=github-dark&preferLogin=false&Background=00000000&Title=006AFF&Text=0579C3&Ring=006AFF&Border=DD272700)](https://git.io/awesome-stats-card)
+![ohmyapp_banners](https://github.com/user-attachments/assets/b3c86410-1202-4de9-a49d-db081a02f437)
 
 ## List of available projects :
 
@@ -41,6 +41,9 @@
   </tbody>
 </table>
 
+
 <img src="https://github.com/user-attachments/assets/1c0fe61e-d4f8-4c21-b75e-f31c15f4099a" />
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GiGiDKR?cardType=level&theme=github-dark&preferLogin=false&Background=00000000&Title=006AFF&Text=0579C3&Ring=006AFF&Border=DD272700)](https://git.io/awesome-stats-card)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gigidkr.gigidkr)
