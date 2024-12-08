@@ -41,9 +41,4 @@
   </tbody>
 </table>
 
-
-<img src="https://github.com/user-attachments/assets/1c0fe61e-d4f8-4c21-b75e-f31c15f4099a" />
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GiGiDKR?cardType=level&theme=github-dark&preferLogin=false&Background=00000000&Title=006AFF&Text=0579C3&Ring=006AFF&Border=DD272700)](https://git.io/awesome-stats-card)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gigidkr.gigidkr)
