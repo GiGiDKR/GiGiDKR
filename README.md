@@ -42,8 +42,3 @@
 </table>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GiGiDKR?cardType=level&theme=github-dark&preferLogin=false&Background=00000000&Title=006AFF&Text=0579C3&Ring=006AFF&Border=DD272700)](https://git.io/awesome-stats-card)
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
