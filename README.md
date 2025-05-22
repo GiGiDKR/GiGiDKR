@@ -1,4 +1,5 @@
-![ohmyapp_banners](https://github.com/user-attachments/assets/b3c86410-1202-4de9-a49d-db081a02f437)
+![ohmyapp_banners](https://github.com/user-attachments/assets/51f65685-bb24-4556-ba3b-9eed7d102a12)
+
 
 ## List of available projects :
 
