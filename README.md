@@ -1,4 +1,4 @@
-## List of available projects :
+## List of some projects :
 
 <table>
   <thead align="center">
