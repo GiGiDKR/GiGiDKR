@@ -1,6 +1,3 @@
-![ohmyapp_banners](https://github.com/user-attachments/assets/51f65685-bb24-4556-ba3b-9eed7d102a12)
-
-
 ## List of available projects :
 
 <table>
@@ -24,12 +21,12 @@
       <td><img alt="GitHub latest commit" src="https://badgen.net/github/last-commit/GiGIDKR/OhMyTermux"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GiGIDKR/OhMyAppInstaller"><b>OhMyAppInstaller</b></a></td>
-      <td><img alt="Stars" src="https://m3-markdown-badges.vercel.app/stars/3/2/GiGIDKR/OhMyAppInstaller"/></td>
-      <td><img alt="Linux" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/GiGIDKR/OhMyAppInstaller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="GitHub commits" src="https://badgen.net/github/commits/GiGIDKR/OhMyAppInstaller"/></td>
-      <td><img alt="GitHub latest commit" src="https://badgen.net/github/last-commit/GiGIDKR/OhMyAppInstaller"/></td>
+      <td><a href="https://github.com/GiGIDKR/OhMyObsidian"><b>OhMyObsidian</b></a></td>
+      <td><img alt="Stars" src="https://m3-markdown-badges.vercel.app/stars/3/2/GiGIDKR/OhMyObsidian"/></td>
+      <td><img alt="Linux" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/GiGIDKR/OhMyObsidian?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="GitHub commits" src="https://badgen.net/github/commits/GiGIDKR/OhMyObsidian"/></td>
+      <td><img alt="GitHub latest commit" src="https://badgen.net/github/last-commit/GiGIDKR/OhMyObsidian"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GiGIDKR/OhMyTermuxWSL"><b>OhMyTermuxWSL</b></a></td>
@@ -42,4 +39,10 @@
   </tbody>
 </table>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GiGiDKR?cardType=level&theme=github-dark&preferLogin=false&Background=00000000&Title=006AFF&Text=0579C3&Ring=006AFF&Border=DD272700)](https://git.io/awesome-stats-card)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74984020" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74984020&image_size=auto&color_scheme=dark" width="900" height="auto">
+    <img alt="Dashboard stats of @GiGiDKR" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74984020&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
